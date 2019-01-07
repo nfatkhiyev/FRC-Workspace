@@ -1,0 +1,10 @@
+{
+	"folders": [
+		{
+			"path": "2019 FRC-Workspace-Gradle"
+		}
+	],
+	"settings": {
+		"java.configuration.updateBuildConfiguration": "automatic"
+	}
+}
