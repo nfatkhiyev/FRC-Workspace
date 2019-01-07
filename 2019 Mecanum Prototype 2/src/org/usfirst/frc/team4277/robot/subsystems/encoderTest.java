@@ -23,7 +23,7 @@ public class encoderTest extends Subsystem {
 	}
 	
 	public double getEncoderMotorSpeed() {
-		double speed = encoderMotor.configSelectedFeedbackSensor(FeedbackDevice.CTRE_MagEncoder_Absolute, 0, arg2)
+		double speed = encoderMotor.configSelectedFeedbackSensor(FeedbackDevice.CTRE_MagEncoder_Absolute, 0, arg2;
 	}
     public void initDefaultCommand() {
         // Set the default command for a subsystem here.
