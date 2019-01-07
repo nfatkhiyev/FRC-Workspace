@@ -1883,3 +1883,6 @@ org.eclipse.jgit.errors.TransportException: https://github.com/nfatkhiyev/FRC-Wo
 
 !ENTRY edu.wpi.first.wpilib.plugins.core 1 0 2019-01-07 12:26:57.124
 !MESSAGE Preferences initialized.
+
+!ENTRY riolog 1 0 2019-01-07 12:32:13.535
+!MESSAGE exiting listener
